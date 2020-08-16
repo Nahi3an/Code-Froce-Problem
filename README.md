@@ -15,7 +15,7 @@ This repository is created to view and learn multiple solving method and approac
   
 ### Uploading Code ###
 
-- **Before doing anything you must pull from this
+- **Before doing anything you must pull from the master
   branch to be make you repo up to date**
   Run `git pull origin master`
 - Create a new branch by your name and only work on that branch
