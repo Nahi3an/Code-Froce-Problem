@@ -8,15 +8,15 @@ This repository is created to view and learn multiple solving method and approac
 
 ## Cotributor List ##
 
-* Nafis Nawal Nahiyan 
-* Abdur Rahman Tumzied 
-* Pulok Rehan 
+- Nafis Nawal Nahiyan 
+- Abdur Rahman Tumzied 
+- Pulok Rehan 
 
 
 ## Prefered Language ##
 
-* C++ 
-* Pyhthon 
+- C++ 
+- Pyhthon 
 
 
 
