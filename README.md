@@ -16,11 +16,12 @@ This repository is created to view and learn multiple solving method and approac
 ### Uploading Code ###
 
 - **Before doing anything you must pull from the master
-  branch to be make you repo up to date**
+  branch to be make you repo up to date.**
   Run `git pull origin master`
-- Create a new branch by your name and only work on that branch
+- Create a new branch by your name and only work on that branch.
   Run `git checkout -b your-branch-name`
 - Always uplaod only the **.cpp** or **.py** file from your branch 
+- Name the file with the problem like **402A** or **79B** code number given by     code force 
 - Watch this video for more details [Collborating On GitHub](https://www.youtube.com/watch?v=4UTSEKzsSvM "Collborating On GitHub")
 
 ### Evaluation (Optional) ###
