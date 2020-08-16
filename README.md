@@ -21,7 +21,7 @@ This repository is created to view and learn multiple solving method and approac
 - Create a new branch by your name and only work   on that branch
   Run `git checkout -b "your-branch-name"`
 - Always uplaod only the  .cpp or .py file from     your branch 
-- Watch this video for more details [Collborating   on GitHub](https://www.youtube.com/watch?         v=MnUd31TvBoU "Collborating   on GitHub")
+- Watch this video for more details [Collborating   On GitHub](https://www.youtube.com/watch?         v=MnUd31TvBoU "Collborating On GitHub")
 
   
 ## Cotributor List ##
