@@ -12,15 +12,15 @@ This repository is created to view and learn multiple solving method and approac
 
 - Create a local repository on your machine 
 - Initialize git and link it to this repository 
-- Before doing anything you must pull from this
-  repository. 
+- ***Before doing anything you must pull from this
+  repository.***
   Run `git pull origin master`
   
 ### Uploading Code ###
 
 - Create a new branch by your name and only work on that branch
   Run `git checkout -b your-branch-name`
-- Always uplaod only the *.cpp* or *.py* file from your branch 
+- Always uplaod only the ***.cpp*** or ***.py*** file from your branch 
 - Watch this video for more details [Collborating On GitHub](https://www.youtube.com/watch?v=4UTSEKzsSvM "Collborating On GitHub")
 
   
