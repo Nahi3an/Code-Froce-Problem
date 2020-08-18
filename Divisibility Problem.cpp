@@ -1,17 +1,24 @@
 #include<iostream>
 using namespace std;
-int main(){
-int n;
-cin>>n;
-while(n--){
+int main()
+{
+    int n;
+    cin>>n;
+    while(n--)
+    {
 
-    long int a,b;
-    cin>>a>>b;
-    int totalinc=0;
-    while(a%b!=0){
-        a++;
-        totalinc++;
+        long int a,b;
+        cin>>a>>b;
+        if(a>=b)
+        {
+            if(a%b==0)
+                cout<<0<<endl;
+            else
+            {
+                cout<<b-(a%b)<<endl;
+            }
+        }
+        else
+            cout<<b-a<<endl;
     }
-    cout<<totalinc<<endl;
-}
 }
