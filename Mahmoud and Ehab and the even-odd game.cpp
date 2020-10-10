@@ -9,7 +9,7 @@ int main(){
 
     if(a%2==0){
 
-        cout<<"Mahmud"<<endl;
+        cout<<"Mahmoud"<<endl;
     }else{
 
         cout<<"Ehab"<<endl;
