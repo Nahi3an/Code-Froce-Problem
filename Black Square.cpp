@@ -14,41 +14,41 @@ int main(){
 
     cin>>str;
 
-    int a=0,b=0,c=0,d=0;
+    int c[4] = {0};
     for(int i=0; i<str.length(); i++)
       {
           if(str[i]=='1'){
-            a++;
+            c[0]++;
           }else if(str[i]=='2'){
-            b++;
+            c[1]++;
           }else if(str[i]=='3'){
-            c++;
+            c[2]++;
           }
           else{
 
-            d++;
+            c[3]++;
           }
       }
 
-      //cout<<a<<" "<<b<<" "<<c<<" "<<d<<endl
 
-        int res = 0;
+
+      int res = 0;
       for(int i=0; i<4; i++){
 
         if(i==0){
 
-            res = res + a*arr[i];
+            res = res + c[0]*arr[i];
 
         }else if(i==1){
 
-            res = res+ b*arr[i];
+            res = res+ c[1]*arr[i];
 
         }else if(i==2){
 
-            res = res + c*arr[i];
+            res = res + c[2]*arr[i];
 
         }else{
-            res = res + d*arr[i];
+            res = res + c[3]*arr[i];
 
         }
       }
